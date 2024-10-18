@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5 Jan, 2023, 4:17:54 AM
+    Author     : dell
+*/
+.newsletter
+{
+    height: 300px;
+    width: 100vw;
+    padding-top: 100px;
+}
+.right
+{
+    height: 300px;
+    width: 35vw;
+    float: right;
+    padding-right: 100px;
+}
+.left
+{
+    height: 300px;
+    width: 65vw;
+    float: left;
+    padding-left: 100px;
+}
+.container h2
+{
+    font-weight: bold;
+    font-size: 35px;
+}
+.container p
+{
+    color: gray;
+}
+.form-group
+{
+    margin-right: 30px;
+}
+.left .form-control
+{
+    width: 300px;
+    height: 50px;
+    border-radius: 0%;
+}
+.right .container .table
+{
+    width: 30vw;
+}
