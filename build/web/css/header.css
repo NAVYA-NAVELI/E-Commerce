@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5 Jan, 2023, 3:45:49 AM
+    Author     : dell
+*/
+.header
+{
+    height: 100px;
+    width: 100vw;
+}
+.navbar-default
+{
+    height: 100px;
+    background-color: white;
+}
+.navbar-header
+{
+    margin-top: 10px;
+}
+.container-fluid
+{
+    height: 100px;
+    margin-left: 100px;
+}
+.navbar-nav
+{
+    float: right;
+    margin-right: 100px;
+    margin-top: 25px;    
+}
+.container-fluid .navbar-nav li a
+{
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}
+

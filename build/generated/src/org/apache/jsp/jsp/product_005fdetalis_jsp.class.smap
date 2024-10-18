@@ -1,0 +1,21 @@
+SMAP
+product_005fdetalis_jsp.java
+JSP
+*S JSP
+*F
++ 0 product_detalis.jsp
+jsp/product_detalis.jsp
++ 1 header.html
+jsp/../html/header.html
+*L
+5,63:50
+1#1,36:113
+67#0,4:148
+71,10:153
+80,2:163
+82:165,3
+83:168,5
+84,3:173
+87,5:177
+91,9:182
+*E
